@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GOOVO</string>
+    <string name="title_activity_main">GOOVO</string>
+    <string name="package_name">com.goovo.app</string>
+    <string name="custom_url_scheme">com.goovo.app</string>
+</resources>
